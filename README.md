@@ -1,7 +1,7 @@
  
   This app allows you to add items in your shopping list. You can add 
 items, check, or delete, also you can search items that you want. I used 
-json-server to store items and React.js framework to create whole app
+json-server to store items and React.js framework, HTML and CSS to create whole app.
  
  How to start this app:
  
