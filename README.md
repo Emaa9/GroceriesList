@@ -5,7 +5,7 @@ json-server to store items and React.js framework to create whole app
  
  How to start this app:
  
- Step1. You should install node_moduels with command npm i
+ Step1. You should install node_modules with command npm i
 
  Step2. First you should start json-server with whis command  npx json-server -p 3500 -w data/db.json
  
